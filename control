@@ -1,0 +1,9 @@
+Package: com.kindadev.keyblack
+Name: KeyBlack
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Change to a black keyboard. Do not use the Color Keyboard. This is One-liner Tweak. ;P
+Maintainer: kinda
+Author: kinda
+Section: Tweaks

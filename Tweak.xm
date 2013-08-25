@@ -1,0 +1,1 @@
+%hook UIKeyboardLayoutStar - (void)setKeyboardAppearance:(int)arg1 { %orig(UIKeyboardAppearanceAlert); } %end
